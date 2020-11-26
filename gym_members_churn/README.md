@@ -1,3 +1,5 @@
+При проблемах с открытием файла, его можно посмотреть [тут](https://nbviewer.jupyter.org/github/decembergirl/yandex-praktikum-projects/blob/master/gym_members_churn/gym_members_churn_ML.ipynb)
+
 ## Прогнозирование вероятности оттока пользователей для фитнес-центров
 
 ## Задача:
