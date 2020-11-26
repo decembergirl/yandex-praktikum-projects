@@ -1,5 +1,5 @@
 
-При проблемах с открытием файла, его можно посмотреть тут
+При проблемах с открытием файла, его можно посмотреть [тут](https://nbviewer.jupyter.org/github/decembergirl/yandex-praktikum-projects/blob/master/shop_loyalty_program/shop_loyalty_program_analysis.ipynb)
 
 ## Анализ эффективности программы лояльности магазина
 
